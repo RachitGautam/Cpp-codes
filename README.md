@@ -1,2 +1,2 @@
 # C++
- you will find C++ codes here!!
+ you will find C++ basic codes here!!
